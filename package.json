@@ -1,0 +1,9 @@
+{
+  "name": "Games-API",
+  "version": "1.0.0",
+  "description": "API for Games including word gusser",
+  "main": "index.js",
+  "repository": "git@github.com:aavashDhimal/word-gusser-API.git",
+  "author": "Aavash Dhimal",
+  "license": "MIT"
+}
